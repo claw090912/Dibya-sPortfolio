@@ -6,7 +6,7 @@ Welcome to my personal developer portfolio built with React.js! This animated an
 
 ## 📸 Demo
 
-🌐 [Live Site](dibyaportfolio0912.netlify.app)  
+🌐 [Live Site](https://dibyaportfolio0912.netlify.app/)  
 📂 [GitHub Repo](https://github.com/claw090912/Dibya-sPortfolio)
 
 ---
